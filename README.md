@@ -9,4 +9,4 @@ nutritional_diet.xlsx includes a breakdown of the nutritional value and cost per
 
 text files include the code output for each model generated.
 
-image files are included when necessary to show food labels.
+image files are included when necessary to show food labels if the ingredient is a packaged food. otherwise, the nutrition breakdown is included in the excel file mentioned above. 
