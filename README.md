@@ -10,3 +10,5 @@ nutritional_diet.xlsx includes a breakdown of the nutritional value and cost per
 text files include the code output for each model generated.
 
 image files are included when necessary to show food labels if the ingredient is a packaged food. otherwise, the nutrition breakdown is included in the excel file mentioned above. 
+
+link to ChatGPT output: https://chat.openai.com/share/e1003aeb-42fc-439e-b548-9c661b7fecc8
