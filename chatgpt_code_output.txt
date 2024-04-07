@@ -1,0 +1,8 @@
+Status: Optimal
+Total Cost = $ 69.93914423300001
+Optimal Servings:
+Cauliflower_Gnocchi_with_Chicken_Sausage = 0.0
+Chicken,_Broccoli,_and_Rice = 2.5983591
+Mac_n_Cheese_with_Broccoli = 2.3886646
+Protein_Shake = 0.99313208
+Salad_with_Chicken = 0.0
