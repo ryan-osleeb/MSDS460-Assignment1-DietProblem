@@ -1,0 +1,8 @@
+Number of Servings per Meal
+Protein Shake: 6.9519246
+Salad with Chicken: 0.0
+Mac n Cheese: 16.720652
+Chicken, Broccoli, Rice: 18.188514
+Gnocchi Chicken Sausage: 0.0
+
+Weekly Cost: 69.93914453000001
