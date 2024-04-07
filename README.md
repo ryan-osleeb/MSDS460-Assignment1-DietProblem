@@ -1,5 +1,5 @@
 # MSDS460-Assignment1-DietProblem
-MSDS 460: Decision Analytics Assignment 1: The Diet Problem
+MSDS 460: Decision Analytics Assignment 1: The Diet Problem by Ryan Osleeb
 
 This repository includes the paper, code, and othe resources for a solution to the diet problem, a classic problem in constrained optimization often used to introduce linear programming concepts. 
 
